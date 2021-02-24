@@ -6,17 +6,17 @@ Sei não. Não vou entrar em detalhes. Isso era pra ser um blog?
 
 ### Projetos
 - <a href="github.com/KurisOtaku/Painel_VendasLF">Painel_VendasLF</a><br>
-[Recebe pequenas atualizações, mas nada grande]
+`Recebe pequenas atualizações, mas nada grande`
 - <a href="github.com/KurisOtaku/FilesProcess">FilesProcess</a><br>
-[Resolvi criar para padronizar minhas consultas a arquivos]
+`Resolvi criar para padronizar minhas consultas a arquivos`
 - <a href="github.com/KurisOtaku/NeoTelegramBot">NeoTelegramBot</a><br>
-[Meu queridinho. Comecei com este projeto. Facilita a criação de Telegram Bots]
+`Meu queridinho. Comecei com este projeto. Facilita a criação de Telegram Bots`
 - <a href="https://youtu.be/dQw4w9WgXcQ">LFBot</a><br>
-[Uso principalmente no meu serviço. Não é o ideal.]
+`Uso principalmente no meu serviço. Não é o ideal.`
 - <a href="github.com/KurisOtaku/Skyflix">Skyflix</a><br>
-[<a href="skyflix.kuris.vercel.app/">Projeto</a> feito durante uma imersão Alura (recomendo)]
+`<a href="skyflix.kuris.vercel.app/">Projeto</a> feito durante uma imersão Alura (recomendo)`
 - <a href="https://youtu.be/fC7oUOUEEi4">Kuroryu Destiny</a><br>
-[Não é programação, mas é um mangá que estou fazendo]
+`Não é programação, mas é um mangá que estou fazendo`
 
 
 > Piadas a parte, isto é apenas um resumo.
