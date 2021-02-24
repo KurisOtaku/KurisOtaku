@@ -10,7 +10,7 @@ Sei não. Não vou entrar em detalhes. Isso era pra ser um blog?
 - <a href="github.com/KurisOtaku/FilesProcess">FilesProcess</a><br>
 > Resolvi criar para padronizar minhas consultas a arquivos
 - <a href="github.com/KurisOtaku/NeoTelegramBot">NeoTelegramBot</a><br>
-> Meu queridinho. Comecei com este projeto. Facilita a criação de Telegram Bots`
+> Meu queridinho. Comecei com este projeto. Facilita a criação de Telegram Bots
 - <a href="https://youtu.be/dQw4w9WgXcQ">LFBot</a><br>
 > Uso principalmente no meu serviço. Não é o ideal.
 - <a href="github.com/KurisOtaku/Skyflix">Skyflix</a><br>
